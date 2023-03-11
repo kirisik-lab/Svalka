@@ -1,0 +1,5 @@
+[YTIS Uninstaller Data]
+Version = 2.5
+Path = $Folder$
+Name = $Name$
+registry
